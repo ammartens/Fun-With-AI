@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="./index.js"></script>
+  </head>
+  <body
+    class="container mx-auto bg-gradient-to-r from-violet-500 to-fuchsia-500"
+  >
+    <div
+      class="container justify-items-center p-8 bg-white rounded-md shadow-md my-6"
+    >
+      <h1 class="text-2xl font-bold">having fun with ai</h1>
+      <div class="md:container mx-auto m-6">
+        <h2 class="my-2">enter prompt:</h2>
+        <textarea
+          id="prompt"
+          class="flex border-2 border-solid shadow-sm rounded-md p-2 w-full"
+        ></textarea>
+        <div class="flex flex-row-reverse">
+          <button
+            class="rounded-md p-2 my-2 bg-violet-500 text-white hover:bg-indigo-400 px-6"
+            id="submit-btn"
+          >
+            submit
+          </button>
+        </div>
+      </div>
+      <div class="md:container mx-auto m-6">
+        <h2 class="my-2">responses:</h2>
+        <ul id="responses">
+          <li
+            class="container rounded-md shadow-sm bg-stone-100 p-4 my-2"
+            id="noresponses"
+          >
+            <p class="container text-sm">enter a prompt above!</p>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
