@@ -36,6 +36,7 @@ The results are displayed from newest to oldest, in a list with the original pro
 ### Useful resources
 
 - [Resource](https://openai.com/api/) 
+- [Resource](https://support.smartbear.com/swaggerhub/docs/tutorials/openapi-3-tutorial.html) 
 
 ## Author
 
