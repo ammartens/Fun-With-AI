@@ -30,7 +30,6 @@ The results are displayed from newest to oldest, in a list with the original pro
 - HTML
 - CSS Tailwind
 - JavaScript
-- Responsive Design
 - OpenAPI GPT-3
 
 ### Useful resources
