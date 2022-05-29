@@ -9,7 +9,7 @@
 
 ## Overview
 
-Made With Javascript, Tailwind CSS, and Developed with OpenAI's API.
+Made With Javascript/JSON, Tailwind CSS, and Developed with OpenAI's API.
 
 Enter a prompt and the GPT-3 AI Model will process plain text prompts and produce outputs.
 
@@ -30,6 +30,7 @@ The results are displayed from newest to oldest, in a list with the original pro
 - HTML
 - CSS Tailwind
 - JavaScript
+- JSON
 - OpenAPI GPT-3
 
 ### Useful resources
