@@ -2,7 +2,6 @@
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -20,10 +19,6 @@ The results are displayed from newest to oldest, in a list with the original pro
 
 <img width="755" alt="Screen Shot 2022-05-21 at 8 20 56 PM" src="https://user-images.githubusercontent.com/96448173/169676838-80016251-05f5-4c12-b670-e1d48b4473b2.png">
 
-
-### Links
-
-- Live Site URL: [https://shopify-intership.sfo3.digitaloceanspaces.com/index.html](https://shopify-intership.sfo3.digitaloceanspaces.com/index.html)
 
 ### Built with
 
